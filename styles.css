@@ -92,10 +92,6 @@ tr:nth-child(odd) {
     background-color: #fff;
 }
 
-tr:hover {
-    background-color: #e0f7fa;
-}
-
 tr:first-child {
   background-color: #e6f2ff !important;
   font-weight: bold;
